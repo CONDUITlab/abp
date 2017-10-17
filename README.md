@@ -16,5 +16,5 @@ pip install biosppy
 
 ## Dependencies
 Check out the documentation of these dependencies here
-[pandas](https://pandas.pydata.org/pandas-docs/)
-[biosppy](http://biosppy.readthedocs.io/en/stable/)
+* [pandas](https://pandas.pydata.org/pandas-docs/)
+* [biosppy](http://biosppy.readthedocs.io/en/stable/)
