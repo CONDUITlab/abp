@@ -1,0 +1,1 @@
+scp -r speterkins@10.100.3.106:/mnt/data01/CONDUIT/sample/set2 ~/Queens/CONDUITlab
